@@ -1,0 +1,156 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="face-dataset\female\MDI4OTIuanBn.jpg" />
+    <None Remove="face-dataset\female\MjM1NjEuanBn.jpg" />
+    <None Remove="face-dataset\female\MTI5MjQuanBn.jpg" />
+    <None Remove="face-dataset\female\NjYyMDcuanBn.jpg" />
+    <None Remove="face-dataset\female\NTE5MjQuanBn.jpg" />
+    <None Remove="face-dataset\female\NTExNTguanBn.jpg" />
+    <None Remove="face-dataset\female\NzYyODcuanBn.jpg" />
+    <None Remove="face-dataset\female\ODMzOTkuanBn.jpg" />
+    <None Remove="face-dataset\female\OTAxMDMuanBn.jpg" />
+    <None Remove="face-dataset\female\OTQ2NjcuanBn.jpg" />
+    <None Remove="face-dataset\female\OTQ4NzUuanBn.jpg" />
+    <None Remove="face-dataset\female\OTQxMjkuanBn.jpg" />
+    <None Remove="face-dataset\female\REWzDSAyCh.jpg" />
+    <None Remove="face-dataset\male\Mjg5MzguanBn.jpg" />
+    <None Remove="face-dataset\male\Mzg3MjUuanBn.jpg" />
+    <None Remove="face-dataset\male\MzM4MDMuanBn.jpg" />
+    <None Remove="face-dataset\male\NTUzMzguanBn.jpg" />
+    <None Remove="face-dataset\male\NTYxNzguanBn.jpg" />
+    <None Remove="face-dataset\male\NzU5MDEuanBn.jpg" />
+    <None Remove="face-dataset\male\OTM3NTYuanBn.jpg" />
+    <None Remove="face-dataset\male\OTM4NzEuanBn.jpg" />
+    <None Remove="face-dataset\male\OTQ5NTkuanBn.jpg" />
+    <None Remove="face-dataset\male\OTUyNDYuanBn.jpg" />
+    <None Remove="face-dataset\male\OTY3MTkuamBn.jpg" />
+    <None Remove="face-dataset\male\OTY3MTkuanBf.jpg" />
+    <None Remove="face-dataset\male\OTY3MTkuanBn.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="face-dataset\female\MDI4OTIuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\MjM1NjEuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\MTI5MjQuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\NjYyMDcuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\NTE5MjQuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\NTExNTguanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\NzYyODcuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\ODMzOTkuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\OTAxMDMuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\OTQ2NjcuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\OTQ4NzUuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\OTQxMjkuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\female\REWzDSAyCh.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\Mjg5MzguanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\Mzg3MjUuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\MzM4MDMuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\NTUzMzguanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\NTYxNzguanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\NzU5MDEuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTM3NTYuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTM4NzEuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTQ5NTkuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTUyNDYuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTY3MTkuamBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTY3MTkuanBf.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="face-dataset\male\OTY3MTkuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.11" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.10" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+	  <PackageReference Include="Localization.AspNetCore.TagHelpers" Version="0.6.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Localization" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.Extensions.Localization" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JuliePro_DataAccess\JuliePro_DataAccess.csproj" />
+    <ProjectReference Include="..\JuliePro_DataModels\JuliePro_DataModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\upload\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\images\MzM4MDMuanBn.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
